@@ -1,0 +1,5 @@
+D:\Documents\Documents\Visual Studio 2013\Projects\eFace\common\bin\Debug\common.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\eFace\common\bin\Debug\common.pdb
+D:\Documents\Documents\Visual Studio 2013\Projects\eFace\common\obj\Debug\common.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\eFace\common\obj\Debug\common.pdb
+D:\Documents\Documents\Visual Studio 2013\Projects\eFace\common\obj\Debug\common.csprojResolveAssemblyReference.cache

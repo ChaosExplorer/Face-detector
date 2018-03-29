@@ -1,0 +1,11 @@
+D:\Documents\Documents\Visual Studio 2013\Projects\eFace\methodcore\bin\Debug\methodcore.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\eFace\methodcore\bin\Debug\methodcore.pdb
+D:\Documents\Documents\Visual Studio 2013\Projects\eFace\methodcore\obj\Debug\methodcore.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\eFace\methodcore\obj\Debug\methodcore.pdb
+D:\Documents\Documents\Visual Studio 2013\Projects\eFace\methodcore\bin\Debug\Emgu.CV.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\eFace\methodcore\bin\Debug\Emgu.CV.ML.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\eFace\methodcore\bin\Debug\Emgu.Util.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\eFace\methodcore\bin\Debug\ZedGraph.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\eFace\methodcore\bin\Debug\Emgu.CV.xml
+D:\Documents\Documents\Visual Studio 2013\Projects\eFace\methodcore\bin\Debug\Emgu.CV.ML.xml
+D:\Documents\Documents\Visual Studio 2013\Projects\eFace\methodcore\bin\Debug\Emgu.Util.xml
