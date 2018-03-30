@@ -3,7 +3,7 @@ My graduation project -- Face-detector, base on skin-detection method, also used
 <font color=blue>目录介绍</font>
 
 &emsp;Exhibit        &emsp;       运行效果展示及系统架构图<br>
-&emsp;eFace-project  &emsp       项目工程源码及编译后文件  <br>
+&emsp;eFace-project  &emsp;       项目工程源码及编译后文件  <br>
 &emsp;Paper          &emsp;&emsp;       论文  <br>
   
   
