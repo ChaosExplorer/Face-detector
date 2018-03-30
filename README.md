@@ -4,7 +4,7 @@ My graduation project -- Face-detector, base on skin-detection method, also used
 
 &emsp;Exhibit        &emsp;       运行效果展示及系统架构图<br>
 &emsp;eFace-project  &emsp;       项目工程源码及编译后文件  <br>
-&emsp;Paper          &emsp;&emsp;       论文  <br>
+&emsp;Paper          &emsp;&emsp;&emsp;&emsp;       论文  <br>
   
   
 	
