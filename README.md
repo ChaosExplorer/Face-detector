@@ -2,9 +2,9 @@ My graduation project -- Face-detector, base on skin-detection method, also used
 
 目录介绍：
 
-eFace-project         项目工程源码及编译后文件
-Paper                 论文
-Exhibit               系统架构图及运行效果展示
+eFace-project         项目工程源码及编译后文件  </br>
+Paper                 论文  </br>
+Exhibit               系统架构图及运行效果展示  </br>
   
   
 	
