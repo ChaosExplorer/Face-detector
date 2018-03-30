@@ -1,10 +1,10 @@
 My graduation project -- Face-detector, base on skin-detection method, also used Haar+Adaboost classifier in EmguCV.
 
-<font color=#8B0000>目录介绍：</font>
+<font color=blue>目录介绍：</font>
 
-eFace-project  &ensp       项目工程源码及编译后文件  <br>
+Exhibit        &emsp;       运行效果展示及系统架构图<br>
+eFace-project  &enmsp       项目工程源码及编译后文件  <br>
 Paper          &emsp;&emsp;       论文  <br>
-Exhibit        &emsp;       系统架构图及运行效果展示  <br>
   
   
 	
